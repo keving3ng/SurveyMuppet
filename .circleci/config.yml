@@ -1,5 +1,8 @@
 version: 2
 jobs:
+  branches:
+    ignore:
+      - main
   build:
     environment:
       # Configure the JVM and Gradle to avoid OOM errors
