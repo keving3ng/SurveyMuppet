@@ -1,2 +1,0 @@
-# SurveyMuppet
-Survey Site
